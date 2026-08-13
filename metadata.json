@@ -1,0 +1,6 @@
+{
+  "name": "TradingView - Markets Everywhere",
+  "description": "Institutional-grade financial market terminal featuring global stocks, indices, crypto, forex, futures, bonds, ETFs, real-time charts, symbol search, and AI financial insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
